@@ -1,4 +1,5 @@
 # a simple to do list program
+#the program uses two files -one for tasks and one for their status
 from datetime import date
 tasks = []
 status =[]
